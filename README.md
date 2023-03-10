@@ -1,4 +1,4 @@
-# optima_pos
+# OptimaPOS Flutter WebView
 
 A new Flutter project.
 
